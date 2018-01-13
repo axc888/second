@@ -2,5 +2,7 @@
 
 
 # a function that will only return current year
+# function that will return current month
 
+# function that will return weekend
 # a function that will print hello world
